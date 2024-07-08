@@ -1,7 +1,3 @@
-Here is your resume converted from YAML to Markdown:
-
----
-
 # George Gibson
 
 **Email:** georgeagibson@outlook.com  
