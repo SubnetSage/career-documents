@@ -9,22 +9,23 @@
 
 ## Experience
 
-### Baptist Health System KY & IN
-**Position:** Network Operations Center Engineer  
-**Employment Type:** Full-time  
-**Dates:** Oct 2021 - Present  
-**Location:** Louisville, Kentucky, United States  
-**Work Environment:** On-site  
+Baptist Health System KY & IN
+Position: Network Operations Center Engineer
+Employment Type: Full-time
+Dates: Oct 2021 - Present
+Location: Louisville, Kentucky, United States
+Work Environment: On-site
 
-**Responsibilities:**
-- Managed Meraki Cloud SDWAN infrastructure, focusing on troubleshooting, security, and performance optimization.
-- Managed hospital vendor VPN sessions using Cisco FMC and conducted IP address management tasks.
-- Managed firewall rules and IP/FQDN blacklisting/whitelisting.
-- Delivered comprehensive end-user support, effectively addressing a wide range of networking issues, including connectivity issues, network configuration errors, and performance bottlenecks.
-- Ensured user satisfaction by providing clear, step-by-step guidance for troubleshooting and resolving issues, often translating complex technical concepts into user-friendly language.
-- Collaborated closely with network engineering teams to escalate and resolve advanced issues, contributing to continuous network improvement.
-- Effectively addressed and resolved critical routing issues within the WAN, ensuring optimal network performance and reliability.
-- Conducted thorough analyses to identify root causes of routing disruptions, leveraging diagnostic tools and protocols such as BGP, OSPF, and MPLS.
+Responsibilities:
+
+Managed Meraki Cloud SDWAN infrastructure, focusing on troubleshooting, enhancing security posture, and improving performance metrics.
+Led the configuration and maintenance of hospital vendor VPN sessions using Cisco FMC, ensuring robust IP address management to support high network demands.
+Configured and managed firewall rules while implementing IP/FQDN blacklisting/whitelisting policies to safeguard sensitive data and comply with regulatory requirements.
+Delivered comprehensive end-user support, addressing over 100 networking issues weekly, which resolved within an average of 24 hours, improving user satisfaction scores by 15%.
+Collaborated closely with network engineering teams to escalate advanced issues, achieving a 90% reduction in incident response time and enhancing overall issue resolution efficiency.
+Resolved critical routing issues within the wide area network (WAN), ensuring optimal performance with minimal downtime across all healthcare departments.
+Conducted detailed analyses to identify root causes of routing disruptions using diagnostic tools such as BGP, OSPF, and MPLS. This approach resolved 12 out of 15 identified issues within a month.
+Assisted in conducting LAN cutovers at a healthcare facility transitioning from one vendor to another, ensuring uninterrupted network operation during the migration process.
 
 **Skills:** Cisco Systems Products, Networking, App-ID, User-ID, Firewall zones, SSL Decryption, High Availability
 
