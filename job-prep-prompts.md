@@ -58,3 +58,35 @@ Here are some low-effort steps to gather information about a company and its ind
 
 ## 8. Personalized Study Plan based on MB Persoality Type
 - "Using the Myers-Briggs personality type {personality type}, develop a comprehensive study guide for learning {topic} that leverages the individual's personality strengths and learning preferences."
+
+## Mock Interview Preparation Prompt with Resume Integration
+
+----
+
+Step 1: Paste Your Resume
+Below, paste your resume text. This will serve as the basis for generating targeted interview questions and responses.
+
+Step 2: Tailored Interview Questions
+Now, imagine you're interviewing for the position of [Job Title] at [Company Name]. Using your resume as a guide, prepare detailed answers for each of the following questions. Make sure to include concrete examples from your past experiences:
+
+Tell me about yourself.
+
+Provide a concise overview of your career journey, focusing on key achievements and experiences from your resume that have prepared you for this role.
+Why are you interested in working at [Company Name]?
+
+Discuss what specifically attracts you to this company, referring to your background and how your skills (as detailed in your resume) align with the company’s mission and values.
+What makes you a strong fit for this role?
+
+Highlight specific skills and experiences listed in your resume. Explain how these experiences have equipped you to excel in the position.
+Describe a challenging situation you've faced at work. How did you resolve it?
+
+Choose a particular challenge from your resume, describe the context, your approach to resolving it, and the results you achieved.
+How do you manage your time and prioritize tasks when handling multiple projects?
+
+Reflect on instances in your career (as per your resume) where you effectively balanced various responsibilities. Outline your time management and organizational strategies.
+Where do you see yourself in the next 5 years?
+
+Share your career aspirations and how the experiences and skills outlined in your resume have prepared you for long-term growth in this industry.
+Do you have any questions for us?
+
+Prepare thoughtful questions that demonstrate your interest in the role and the company’s future, drawing connections to the experiences noted in your resume.
