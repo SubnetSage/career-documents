@@ -39,4 +39,3 @@ Here is my resume:
 
 ---
 
-✅ Would you like me to generate a **sample script** using one of your previous job applications?
