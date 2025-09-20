@@ -6,8 +6,7 @@
 ---
 
 ## Summary  
-Senior Network Engineer with 8+ years of experience in service provider and healthcare networks. Proficient in **cloud networking, SD-WAN, scripting, and automation**, with strong expertise in deploying and troubleshooting **Azure Operator Nexus (AON)**, automating workflows with Python/Ansible, and managing enterprise-scale infrastructures. Skilled in Cisco networking, MPLS, and advanced routing protocols. Proven ability to deliver resilient, compliant, and scalable network solutions while driving operational efficiency through automation.  
-
+Senior Network Engineer with 8+ years of experience in service provider and healthcare networks. Proficient in **cloud networking, SD-WAN, scripting, and automation**, with strong expertise in deploying and troubleshooting Azure Networking, automating workflows with Python/Ansible, and managing enterprise-scale infrastructures.
 ---
 
 ## Certifications  
