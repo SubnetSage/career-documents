@@ -6,13 +6,13 @@
 ---
 
 ## Summary  
-Senior Network Engineer with 8+ years of experience in service provider and healthcare networks. Skilled in deploying and troubleshooting **Azure Operator Nexus (AON)**, resolving global outages, and managing enterprise-scale infrastructures. Strong expertise in Cisco networking, MPLS, and automation with Python/Ansible. Proven ability to deliver resilient, compliant, and scalable network solutions in high-pressure environments.  
+Senior Network Engineer with 8+ years of experience in service provider and healthcare networks. Proficient in **cloud networking, scripting, and automation**, with strong expertise in deploying and troubleshooting **Azure Operator Nexus (AON)**, automating workflows with Python/Ansible, and managing enterprise-scale infrastructures. Skilled in Cisco networking, MPLS, and advanced routing protocols. Proven ability to deliver resilient, compliant, and scalable network solutions while driving operational efficiency through automation.  
 
 ---
 
 ## Certifications  
-- Cisco CCNA  
-- CompTIA Security+  
+- Cisco CCNA *Issued Jan 2019*  
+- CompTIA Security+ *Issued Mar 2019*  
 - DriveNets Certified Network Disaggregation Professional (DNDP) – *Issued Sep 2025*  
 - DriveNets Certified Network Disaggregation Fundamentals – *Issued Aug 2025*  
 - Aruba Accredited SD-WAN Professional – *Issued May 2025, Expires May 2027*  
@@ -59,7 +59,7 @@ Senior Network Engineer with 8+ years of experience in service provider and heal
 ## Technical Skills  
 - **Networking:** Advanced Cisco routing, switching, firewalls, wireless, SD-WAN  
 - **Protocols:** BGP, OSPF, IS-IS, MPLS, DMVPN, VXLAN  
-- **Cloud & Virtualization:** Azure Operator Nexus (AON), Kubernetes, CNFs  
-- **Automation & Tools:** Python, Ansible, Netmiko, Netlab, Git  
+- **Cloud Networking & Virtualization:** Azure Operator Nexus (AON), Kubernetes, CNFs  
+- **Automation & Scripting:** Python, Ansible, Netmiko, Netlab, Git  
 - **Security & Compliance:** VPNs, firewall policy management, DISA STIGS, HIPAA, PCI  
 - **Operations:** NOC escalations, outage management, large-scale migrations  
