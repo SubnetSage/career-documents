@@ -32,7 +32,7 @@ Expert in multi-vendor enterprise and service provider environments with 8+ year
 *Network Operations Center Engineer* | Oct 2021 – Jul 2025
 *   Managed and optimized a large-scale multi-vendor infrastructure, including **Cisco Meraki SD-WAN**, **HP Aruba** wireless and switching, and core **Cisco** routing/switching across multiple hospitals and clinics.
 *   Executed a phased data center migration, converting hospital campuses from **Cisco** to **HP Aruba** core/access infrastructure, ensuring zero disruption to critical healthcare services.
-*   Resolved complex WAN routing issues leveraging BGP and DMVPN over MPLS, maintaining high availability for all sites.
+*   Resolved complex WAN routing issues leveraging DMVPN and dedicated MPLS circuits, maintaining high availability for all sites.
 *   Automated repetitive tasks by building PowerShell and Python scripts to collect traffic statistics, perform diagnostics, and streamline interface documentation, significantly reducing manual troubleshooting time.
 
 **Norton Healthcare | Louisville, KY**
