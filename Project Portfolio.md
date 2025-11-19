@@ -18,5 +18,5 @@
 
 ## AI Projects
 - [Open Source AI Development](https://drive.google.com/file/d/11RVJ0umDgQe6p7axi3kQ3Ty1OfRbJ4aU/view?usp=sharing)
+## - Designed and deployed a multi-server, GPU-accelerated AI environment using open-source LLMs, enabling model fine-tuning, and REST API integration.
 
-  
