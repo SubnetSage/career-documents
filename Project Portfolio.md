@@ -25,6 +25,7 @@ Hands-on labs and design exercises focused on carrier-grade networking, MPLS, SD
 * [MPLS Wireshark Packet Capture](https://drive.google.com/file/d/1lgHbTukFRe3kpf2ZF1u3slM03LRosPfh/view)
 * [OSPF Authentication Verification](https://drive.google.com/file/d/1-U-el0tCcrC-NvGUo_44ta3jlUHo3Y1x/view)
 * Built Python automation scripts using Netmiko to streamline multi-device management across Cisco environments. The toolkit connects to multiple routers and switches, pulls real-time CDP neighbor data, updates interface descriptions, removes outdated banners, and backs up running configurations — all with a single command.
+* Used AI to analyze and interpret traceroute output from a lab environment, breaking down each hop across core routers, service provider paths, MPLS segments, and external networks. This workflow demonstrated how AI can support faster, clearer understanding of end-to-end network paths and assist in troubleshooting.
 
 ---
 
