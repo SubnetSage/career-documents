@@ -33,6 +33,7 @@ Projects focused on open-source AI, infrastructure, and applied LLM development.
 
 * [Open Source AI Development](https://drive.google.com/file/d/11RVJ0umDgQe6p7axi3kQ3Ty1OfRbJ4aU/view)
 * Designed and deployed a multi-server, GPU-accelerated AI environment using open-source LLMs, supporting fine-tuning workflows and REST API integrations for production use.
+* Python automation (file operations, directory monitoring, JSON config systems), Google Drive API integration & service account authentication, REST API consumption, Cloud GPU environment workflow automation, Cloud file synchronization & automated backup pipelines, DevOps-style scripting and workflow orchestration, Secure credential and secrets handling
 
 ---
 
