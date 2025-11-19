@@ -22,10 +22,12 @@
 - Designed and deployed a multi-server, GPU-accelerated AI environment using open-source LLMs, enabling model fine-tuning, and REST API integration.
 
 ## Volunteer Work
-Tech Louisville — Mentor, IT Support & Networking Career Pathways
+**Tech Louisville**
+**Mentor, IT Career Pathways**
 Louisville, KY
 Provided hands-on guidance to adults transitioning into IT careers through the Tech Louisville program. Helped learners understand real-world networking concepts, build labs, troubleshoot issues, and prepare for certifications and entry-level IT roles. Strengthened the local tech talent pipeline by simplifying complex topics and offering practical, career-focused coaching.
 
-Kentucky Youth Career Center — Mentor, Youth IT Career Development
+**Kentucky Youth Career Center** 
+** Mentor, Youth IT Career Development** 
 Louisville, KY
 Mentored young adults exploring careers in technology. Helped students map out realistic IT career paths, understand industry roles, build foundational technical skills, and develop confidence in entering the workforce. Supported career planning, training guidance, and exposure to real network engineering workflows.
