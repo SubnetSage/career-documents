@@ -15,8 +15,10 @@
 - [DMVPN Lab](https://drive.google.com/file/d/1CzoBaKl0VbGjE7f5gZ6ajKbZXQFzVtK1/view?usp=sharing)
 - [MPLS Redesign](https://drive.google.com/file/d/1ndLxm_BNKybuQ4_2uJR5vJj0JzZIox6x/view?usp=drive_link)
 - [MPLS Wiresharks Packet Capture](https://drive.google.com/file/d/1lgHbTukFRe3kpf2ZF1u3slM03LRosPfh/view?usp=sharing)
+- [OSPF Authentication Verification](https://drive.google.com/file/d/1-U-el0tCcrC-NvGUo_44ta3jlUHo3Y1x/view?usp=drive_link)
 
 ## AI Projects
 - [Open Source AI Development](https://drive.google.com/file/d/11RVJ0umDgQe6p7axi3kQ3Ty1OfRbJ4aU/view?usp=sharing)
-## - Designed and deployed a multi-server, GPU-accelerated AI environment using open-source LLMs, enabling model fine-tuning, and REST API integration.
+### - Designed and deployed a multi-server, GPU-accelerated AI environment using open-source LLMs, enabling model fine-tuning, and REST API integration.
+
 
