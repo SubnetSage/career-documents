@@ -37,11 +37,11 @@ Projects focused on open-source AI, infrastructure, and applied LLM development.
 * Designed and deployed a multi-server, GPU-accelerated AI environment using open-source LLMs, supporting fine-tuning workflows and REST API integrations for production use.
 * Python automation (file operations, directory monitoring, JSON config systems), Google Drive API integration & service account authentication, REST API consumption, Cloud GPU environment workflow automation, Cloud file synchronization & automated backup pipelines, DevOps-style scripting and workflow orchestration, Secure credential and secrets handling
 * CareerCompass — Full-Stack AI-Powered Job Search Platform
-Designed and developed a comprehensive job search platform using React, TypeScript, and Supabase, featuring AI-powered resume optimization, job matching, and salary intelligence
-Built 8 serverless Edge Functions integrating OpenAI GPT-4o-mini API for resume analysis, ATS scoring, interview question generation, salary benchmarking, and professional email creation
-Implemented user authentication, subscription tiers (free/premium/professional/enterprise), and usage tracking with PostgreSQL RLS policies for data security
-Created an AI-driven salary negotiation tool leveraging the Perplexity API for real-time market insights and career progression forecasting
-Developed an application tracking system enabling users to manage job applications through the entire hiring pipeline
+ Designed and developed a comprehensive job search platform using React, TypeScript, and Supabase, featuring AI-powered resume optimization, job matching, and salary intelligence
+ Built 8 serverless Edge Functions integrating OpenAI GPT-4o-mini API for resume analysis, ATS scoring, interview question generation, salary benchmarking, and professional email creation
+ Implemented user authentication, subscription tiers (free/premium/professional/enterprise), and usage tracking with PostgreSQL RLS policies for data security
+ Created an AI-driven salary negotiation tool leveraging the Perplexity API for real-time market insights and career progression forecasting
+ Developed an application tracking system enabling users to manage job applications through the entire hiring pipeline
 ---
 
 ## Volunteer Work
