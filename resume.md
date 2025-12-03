@@ -1,5 +1,4 @@
-### **George Gibson**
-📧 georgeagibson@outlook.com | 📍 St. Louis, Missouri, United States | 📞 502-553-6316
+### **George Gibson** | 📍 St. Louis, Missouri, United States | 
 🔗 [LinkedIn](https://www.linkedin.com/in/georgeagibson/) | 🖥️ [GitHub](https://github.com/SubnetSage)
 
 ---
