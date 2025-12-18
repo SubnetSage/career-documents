@@ -36,12 +36,9 @@ Hands-on labs and design exercises focused on carrier-grade networking, MPLS, SD
 Projects focused on open-source AI, infrastructure, and applied LLM development.
 
 * [Open Source AI Development](https://drive.google.com/file/d/11RVJ0umDgQe6p7axi3kQ3Ty1OfRbJ4aU/view)
-* Designed and deployed a multi-server, GPU-accelerated AI environment using open-source LLMs, supporting fine-tuning workflows and REST API integrations for production use.
-* Python automation (file operations, directory monitoring, JSON config systems), Google Drive API integration & service account authentication, REST API consumption, Cloud GPU environment workflow automation, Cloud file synchronization & automated backup pipelines, DevOps-style scripting and workflow orchestration, Secure credential and secrets handling
+* [CivitPodDriveSync](https://github.com/SubnetSage/CivitPodDriveSync) Python automation (file operations, directory monitoring, JSON config systems), Google Drive API integration & service account authentication, REST API consumption, Cloud GPU environment workflow automation, Cloud file synchronization & automated backup pipelines, DevOps-style scripting and workflow orchestration, Secure credential and secrets handling
 
-* CareerCompass — Full-Stack AI-Powered Job Search Platform -- Designed and developed a comprehensive job search platform using React, TypeScript, and Supabase, featuring AI-powered resume optimization, job matching,      and salary intelligence. Built 8 serverless Edge Functions integrating OpenAI GPT-4o-mini API for resume analysis, ATS scoring, interview question generation, salary benchmarking, and professional email creation
- Implemented user authentication, subscription tiers (free/premium/professional/enterprise), and usage tracking with PostgreSQL RLS policies for data security. Created an AI-driven salary negotiation tool leveraging the  Perplexity API for real-time market insights and career progression forecasting
- Developed an application tracking system enabling users to manage job applications through the entire hiring pipeline
+* [CareerLensHQ](https://career-compass-ai-164.lovable.app/) — A full-stack AI-powered career intelligence platform built with React, TypeScript, and Supabase that analyzes resumes against job descriptions, provides ATS optimization scores, generates personalized interview talking points, and delivers real-time salary market insights.
 
 * MacroPal AI — A full-stack nutrition tracking web application featuring AI-powered food logging via natural language input. Users type what they ate (e.g., "3 eggs and toast"), and Google Gemini parses it into structured macro data. Includes a sleek dashboard with circular progress rings, user authentication, and a SaaS-ready subscription model.
 ---
