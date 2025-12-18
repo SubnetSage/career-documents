@@ -36,7 +36,6 @@ Hands-on labs and design exercises focused on carrier-grade networking, MPLS, SD
 Projects focused on open-source AI, infrastructure, and applied LLM development.
 
 * [Open Source AI Development](https://drive.google.com/file/d/11RVJ0umDgQe6p7axi3kQ3Ty1OfRbJ4aU/view)
-* [CivitPodDriveSync](https://github.com/SubnetSage/CivitPodDriveSync) Python automation (file operations, directory monitoring, JSON config systems), Google Drive API integration & service account authentication, REST API consumption, Cloud GPU environment workflow automation, Cloud file synchronization & automated backup pipelines, DevOps-style scripting and workflow orchestration, Secure credential and secrets handling
 
 * [CareerLensHQ](https://career-compass-ai-164.lovable.app/) — A full-stack AI-powered career intelligence platform built with React, TypeScript, and Supabase that analyzes resumes against job descriptions, provides ATS optimization scores, generates personalized interview talking points, and delivers real-time salary market insights.
 
