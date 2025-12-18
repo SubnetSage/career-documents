@@ -27,7 +27,7 @@ Hands-on labs and design exercises focused on carrier-grade networking, MPLS, SD
 
 ## Network Automation Projects
 
-* [MPLS LAb Fabric Configurator](https://github.com/SubnetSage/MPLS-Lab-Fabric-Config-Generator) - Built a dynamic MPLS L3VPN network design generator using Python and Streamlit that models a resilient provider core (P/PE), out-of-band route reflector, multi-customer VRFs with flexible CE–PE handoffs (eBGP, OSPF, static), shared INTERNET VRF with RT-based route leaking, and exports production-style router configurations, interactive topology diagrams, and structured JSON context specifically designed for AI-driven analysis, automation, and reasoning.
+* [MPLS Lab Designer](https://github.com/SubnetSage/MPLS-Lab-Fabric-Config-Generator) - Built a dynamic MPLS L3VPN network design generator using Python and Streamlit that models a resilient provider core (P/PE), out-of-band route reflector, multi-customer VRFs with flexible CE–PE handoffs (eBGP, OSPF, static), shared INTERNET VRF with RT-based route leaking, and exports production-style router configurations, interactive topology diagrams, and structured JSON context specifically designed for AI-driven analysis, automation, and reasoning.
 
 ---
 
