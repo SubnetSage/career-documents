@@ -34,7 +34,7 @@
 * [**Azure Cloud Journey 4:** Establishing Bidirectional VNet Communication](https://www.linkedin.com/pulse/azure-cloud-journey-4-establishing-bidirectional-vnet-george-gibson-ttodf)
 * [**Azure Cloud Journey 5:** Implementing Virtual WAN for Scalability](https://www.linkedin.com/pulse/azure-cloud-journey-5-implementing-virtual-wan-scalable-george-gibson-hxdge)
 * [**Azure Cloud Journey 6:** Setting Up ExpressRoute for Secure & Reliable Connectivity](https://www.linkedin.com/pulse/azure-cloud-journey-6-setting-up-expressroute-secure-reliable-gibson-rjkge)
-
+* [**Custom AI Generated AZ-700 Video Notes Based on my Notes**](https://drive.google.com/drive/folders/12htQlhn-bw2ZknN7PWgmZ6G0yLlSIqXE?usp=sharing)
 ---
 
 ## 🌐 Networking Labs & Design Work
